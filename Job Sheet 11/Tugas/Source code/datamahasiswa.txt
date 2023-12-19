@@ -1,0 +1,21 @@
+Data Mahasiswa ke-1
+Nama: oksa bayu
+NIM: 23343080
+Jurusan: elektronika
+Program Studi: informatika
+
+
+Data Mahasiswa ke-2
+Nama: bayuoksa
+NIM: 23343080
+Jurusan: elektronika
+Program Studi: informatika
+
+
+Data Mahasiswa ke-1
+Nama: avelza andana
+NIM: 21356490
+Jurusan: ilmu sosial
+Program Studi: sejarah
+
+
