@@ -24,8 +24,7 @@ Program ini dibangun dengan menggunakan:
   Sementara orang yang melakukan pemrograman disebut dengan programmer, sedangkan program adalah produk dari proses pemrograman yang dilakukan.
   Coding adalah proses untuk menuliskan kode yang harus sesuai dengan aturan penulisan atau syntax dari bahasa pemrograman yang digunakan. Sedangkan 
   programming adalah sebuah proses membuat program komputer untuk mencapai hasil tertentu. Bahasa Pemrograman adalah instruksi standar 
-  untuk meminta sebuah komputer untuk menjalankan suatu fungsi tertentu. Berdasarkan tingkat kedekatannya dengan mesin komputer, bahasa pemrograman 
-  terdiri dari bahasa mesin, bahasa tingkat rendah, bahasa tingkat menengah, dan bahasa tingkat tinggi.
+  untuk meminta sebuah komputer untuk menjalankan suatu fungsi tertentu. 
   
   IDE atau Integrated Development Environment adalah software atau aplikasi yang digunakan oleh programmer untuk membuat sebuah program komputer atau 
   sebagai tempat pengembangan aplikasi. Contohnya adalah DevC++, Microsoft Visual Studio, CodeBlocks, NetBeans, Eclips, dll.
