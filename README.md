@@ -1,5 +1,5 @@
-#Job sheet Praktikum Algoritma
-##Job sheet Title
+# Job sheet Praktikum Algoritma
+## Job sheet Title
 1. Pengantar Algoritma Pemrograman            7. Array
 2. Pemrograman dasar C                        8. Fungsi dan Prosedur
 3. Variabel,Konstanta, dan Tipe Data          9. Pointer
@@ -7,14 +7,14 @@
 5. Flow Control (Decision Making)            11. File Handling in C
 6. Flow Control (Looping)
 
-##Tech
+## Tech
 Program ini dibangun dengan menggunakan:
 "Code::Blocks," itu adalah integrated development environment (IDE) untuk pengembangan perangkat lunak
  yang mendukung beberapa bahasa pemrograman seperti C, C++, dan Fortran. 
  Code::Blocks dirancang untuk menjadi lingkungan pengembangan yang ringan
  dan dapat diakses oleh pengembang berbagai tingkat keahlian.
 
-##Description
+## Description
 1. Job Sheet 1 Penghantar Algoritma Pemrograman
   Algoritma adalah urutan langkah-langkah yang disusun secara sistematis dan logis untuk menyelesaikan suatu masalah atau mencapai suatu tujuan tertentu.
   Algoritma harus punya 6 ciri penting yaitu keterbatasan, setiap langkah tidak membingungkan, memiliki input, memiliki output, harus efektif,
